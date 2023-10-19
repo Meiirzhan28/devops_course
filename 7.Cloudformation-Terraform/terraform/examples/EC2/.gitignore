@@ -1,3 +1,0 @@
-*.tfst*
-.terraform/*
-config.*
